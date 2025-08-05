@@ -1,0 +1,10 @@
+name = "PyTyphoonJL"
+uuid = "12345678-9abc-def0-1234-56789abcdef0"
+authors = ["OpenAI Agent"]
+version = "0.1.0"
+
+[deps]
+Wavelets = "29a6e085-ba6d-5f35-a997-948ac2efa89a"
+
+[compat]
+julia = "1.11"
